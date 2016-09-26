@@ -1,0 +1,4 @@
+image.png	de originele afbeelding
+smoothing0.png	na smoothing met eigen Gaussische filter met border effecten
+smoothing1.png	na smoothing met eigen Gaussische filter zonder border effecten
+smoothing2.png	na smoothing met OpenCV Gaussische filter zonder border effecten

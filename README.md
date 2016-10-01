@@ -5,6 +5,9 @@ Course Computer Vision: Smoothing
 
 <p align="center"><img src="https://github.com/matt77hias/Smoothing/blob/master/res/image.png" width="215"><img src="https://github.com/matt77hias/Smoothing/blob/master/res/smoothing0.png" width="215"><img src="https://github.com/matt77hias/Smoothing/blob/master/res/smoothing1.png" width="215"><img src="https://github.com/matt77hias/Smoothing/blob/master/res/smoothing2.png" width="215"></p>
 
+## About
+An implementation of 2D Gaussian smoothing using a separable filter.
+
 ## Use
 
 1. Original image

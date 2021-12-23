@@ -9,10 +9,10 @@ Course Computer Vision: Smoothing
 **Academic Year**: 2013-2014 (2nd semester - 1st Master of Science in Engineering: Computer Science)
 
 <p align="center">
-<img src="res/image.png" width="205">
-<img src="res/smoothing0.png" width="205">
-<img src="res/smoothing1.png" width="205">
-<img src="res/smoothing2.png" width="205">
+<img src="res/image.png" width="204">
+<img src="res/smoothing0.png" width="204">
+<img src="res/smoothing1.png" width="204">
+<img src="res/smoothing2.png" width="204">
 </p>
 
 ## About
